@@ -2,9 +2,9 @@
 Read on web at: [https://osaholic.com/harmoryos-awesome](https://osaholic.com/harmoryos-awesome/)
 
 ### Official link
-- Homepage: [https://developer.harmonyos.com/en/home/](https://developer.harmonyos.com/en/home/)
-- OpenHarmonyOS Sourcecode: [https://gitee.com/openharmony](https://gitee.com/openharmony)
-- HarmonyOS Overview](https://developer.harmonyos.com/en/docs/documentation/doc-guides/harmonyos-overview-0000000000011903)
+- [Homepage](https://developer.harmonyos.com/en/home/)
+- [OpenHarmonyOS Sourcecode](https://gitee.com/openharmony)
+- [HarmonyOS Overview](https://developer.harmonyos.com/en/docs/documentation/doc-guides/harmonyos-overview-0000000000011903)
 ### Links
 
 ### Events
