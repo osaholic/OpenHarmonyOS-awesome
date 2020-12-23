@@ -5,6 +5,7 @@ Read on web at: [https://osaholic.com/harmoryos-awesome](https://osaholic.com/ha
 ### II. Official Links
 - [Homepage](https://developer.harmonyos.com/en/home/)
 - [OpenHarmonyOS Sourcecode](https://gitee.com/openharmony)
+- [OpenHarmonyOS Documentation](https://gitee.com/openharmony/docs/tree/master/docs-en)
 - [HarmonyOS Overview](https://developer.harmonyos.com/en/docs/documentation/doc-guides/harmonyos-overview-0000000000011903)
 #### Other Useful Links
 - [Huawei LiteOS Kernel](https://liteos.github.io/en/kernel/#highlights-of-huawei-liteos-kernel)
