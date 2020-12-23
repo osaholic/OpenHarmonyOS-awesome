@@ -29,6 +29,8 @@ HarmonyOS 2.0 will support the type of memory devices:
 ### VI. Developer Tools
 #### 1. IDE
 - [HUAWEI DevEco Studio (DevEco Studio for short)](https://developer.harmonyos.com/en/docs/documentation/doc-guides/tools_overview-0000001053582387)
+#### 2. Compiler
+- [OpenArkCompiler](https://gitee.com/openarkcompiler/OpenArkCompiler)
 ### VII. Community
 [about Community]
 ### VIII. Books
