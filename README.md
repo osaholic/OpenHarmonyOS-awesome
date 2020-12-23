@@ -18,3 +18,4 @@ HarmonyOS 2.0 will support the type of memory devices:
 - From April 21, 2021 – Device with 128MB to 4GB RAM
 - From October 2021 – Device with 4GB to more than 4GB RAM
 ### Videos
+- [Eclipse 2020 CON - HarmonyOS: Key technical features and architectural deep dive](https://www.youtube.com/watch?v=G4l1a1HqjEI&feature=emb_logo&ab_channel=EclipseFoundation)
