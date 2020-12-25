@@ -9,6 +9,7 @@ Read on web at: [https://osaholic.com/harmoryos-awesome](https://osaholic.com/ha
 - [HarmonyOS Overview](https://developer.harmonyos.com/en/docs/documentation/doc-guides/harmonyos-overview-0000000000011903)
 #### Other Useful Links
 - [Huawei LiteOS Kernel](https://liteos.github.io/en/kernel/#highlights-of-huawei-liteos-kernel)
+- [HarmonyOS (HongMeng OS): Everything you need to know](https://www.huaweicentral.com/harmonyos-hongmeng-os-everything-you-need-to-know/)
 ### III. Events
 - [HarmonyOS 2.0 Mobile Beta launch event set for December 16, 2020](https://osaholic.com/harmonyos-20-mobile-beta-launch-event-set-for-december-16-check-full-event-schedule/)
 - [Summary News from Huawei Central - Event HarmonyOS 2.0 Beta developer conference on December 16, 2020](https://osaholic.com/summary-news-from-huawei-central-event-harmonyos-20-beta-developer-conference-on-december-16/)
